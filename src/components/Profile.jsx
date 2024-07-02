@@ -19,7 +19,7 @@ const Profile = () => {
         <div className="btn-container">
           <a
             // href="https://drive.google.com/file/d/1chkYrvO7R6mebib21FoL8lD9cC2rk3OI/view?usp=sharing"
-            href="https://drive.google.com/file/d/1chkYrvO7R6mebib21FoL8lD9cC2rk3OI/view?usp=sharing"
+            href="https://www.canva.com/design/DAGIXvxcYoA/_cYwh1mMSa_zYys8uij8Lw/view?utm_content=DAGIXvxcYoA&utm_campaign=designshare&utm_medium=link&utm_source=editor"
             download="DewanshiDhoteResume"
             type="pdf"
             target="_blank"
